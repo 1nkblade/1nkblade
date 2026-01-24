@@ -3,7 +3,7 @@
 # Hi there! 👋
 
 **Welcome to my GitHub profile.**  
-Software developer passionate about TypeScript, Python, PHP/Laravel, and open-source.
+Software developer passionate about Python, PHP/Laravel, and open-source.
 
 <div align="center">
 
