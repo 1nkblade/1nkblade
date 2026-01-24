@@ -3,27 +3,23 @@
 # Hi there! 👋
 
 **Welcome to my GitHub profile.**  
-Software developer from Modena, Italy, passionate about TypeScript, Python, and open-source.
+Software developer passionate about TypeScript, Python, PHP/Laravel, and open-source.
 
 <div align="center">
 
 ### Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,git,javascript,css,html,python,java,c,linux&perline=8" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=typescript,git,javascript,css,html,python,java,c,linux,php,laravel,bootstrap&perline=6" alt="My Tech Stack" />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?theme=solarized_light)](https://github.com/yourusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=yourusername&theme=solarized_light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 ## About Me
-- 🌍 Based in Modena, Emilia-Romagna, IT
-- 🚀 Full-stack dev: TS/JS, Python, Java
+- 🚀 Full-stack dev: TS/JS, Python, PHP/Laravel, Bootstrap
 - 💻 Linux enthusiast
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 [iamomar1337@gmail.com](mailto:iamomar1337@gmail.com)
 
 ```bash
 # Fun fact: My daily driver
