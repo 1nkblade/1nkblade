@@ -10,5 +10,4 @@
   </a>
 </p>
 
-![Visitors](https://visitcount.itsvg.in/api?id=1nkBlade&label=Profile%20views&color=6)
-</div>
+
