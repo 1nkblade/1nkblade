@@ -17,7 +17,6 @@ Focus su prodotti reali: gateway API, CRM multi-tenant, piattaforme gestionali.
 
 ### 🚀 Progetti in evidenza
 - **Pollen** — gateway WhatsApp API (istanze, invio messaggi, webhook firmati) su Laravel 12 + Evolution API
-- **Nova Collective** — piattaforma casting cinema/produzione · [novacollectiveagency.com](https://novacollectiveagency.com)
 - **WhatsMall** — CRM multi-tenant per centri commerciali
 - **docs.inkblade.cloud** — hub documentazione (Laravel 13 + React 19, contenuti markdown)
 
